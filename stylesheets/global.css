@@ -1,0 +1,63 @@
+body {
+  background: #f9f9f9;
+  font-family: 'helvetica neue', Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Top Navigation Bar */
+.top-bar {
+  background: #a9db80;
+  background: linear-gradient(to bottom, #a9db80 0%,#96c56f 100%);
+  height: 50px;
+  width: 100%;
+}
+
+/* Navigation within Top Bar */
+.orgsync-nav {
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 50px;
+  margin: 0 auto;
+  max-width: 960px;
+}
+
+.orgsync-nav ul {
+  float: right;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  width: 70%;
+}
+
+.orgsync-nav ul li {
+  float: left;
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+.orgsync-nav ul li:last-child {
+  float: right;
+}
+
+/* Main Content Box */
+.content {
+  background: #fff;
+  box-shadow: 0px 0px 3px #ccc;
+  box-sizing: border-box;
+  padding: 20px;
+  margin: 20px auto 0 auto;
+  max-width: 960px;
+}
+
+/* This is for no purpose other than being a little bit easier to read */
+.list-readability {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.list-readability li {
+  line-height: 1.5em;
+  margin-bottom: 1em;
+}
