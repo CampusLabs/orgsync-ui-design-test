@@ -17,6 +17,16 @@ There are a whole host of UI questions to consider on something like this , ques
 
 You can get this code to us however you feel most comfortable, here is one way:
 
-First you will want to clone this repository to your local machine so you can edit it. Create a branch for your changes and create a pull request for that branch when you're done. If you are able to make incremental commits to show how your code progresses that would be helpful (but not required).
+First you will want to clone this repository to your local machine so you can edit it.
+
+
+#### How to clone this repo:
+
+Using terminal go to a folder in your computer where you would like to create this project. type `git clone https://github.com/tylerlee/orgsync-ui-design-test.git` that will create a folder called "orgsync-ui-design-test" that you can jump into and see the contents of. 
+
+We want to create another branch so after your in the directory type `git branch valarie` to create a branch named valarie, and `git checkout valarie` to jump into that branch.
+
+From here you can make all of your changes, write your code etc... Add and Commit your changes like you normally would.
+If you are able to make incremental commits to show how your code progresses that would be helpful (but not required). When you are finished you will need to push your changes out so `git push origin valarie` will push to github.
 
 Again, this is open ended, use anything you would like to accomplish this project, our goal for this project is to ascertain both development skills and design/UI considerations. If you have any further questions feel free to ask: tyler@orgsync.com, kevin@orgsync.com, clifton@orgsync.com
