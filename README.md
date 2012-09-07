@@ -19,9 +19,6 @@ You can get this code to us however you feel most comfortable, here is one way:
 
 First you will want to clone this repository to your local machine so you can edit it.
 
-
-#### How to clone this repo:
-
 Using terminal go to a folder in your computer where you would like to create this project. type `git clone https://github.com/tylerlee/orgsync-ui-design-test.git` that will create a folder called "orgsync-ui-design-test" that you can jump into and see the contents of. 
 
 We want to create another branch so after your in the directory type `git branch valarie` to create a branch named valarie, and `git checkout valarie` to jump into that branch.
