@@ -1,7 +1,7 @@
 orgsync-devtest
 ===============
 
-####Welcome to the OrgSync UI/Frontend/Development Devtest.
+####Welcome to the OrgSync UI/Frontend Devtest.
 
 First you will want to clone this repository to your local machine so you can edit it.
 
