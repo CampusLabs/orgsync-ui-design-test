@@ -19,11 +19,11 @@ You can get this code to us however you feel most comfortable, here is one way:
 
 First you will want to clone this repository to your local machine so you can edit it.
 
-Using terminal go to a folder in your computer where you would like to create this project. type `git clone https://github.com/tylerlee/orgsync-ui-design-test.git` that will create a folder called "orgsync-ui-design-test" that you can jump into and see the contents of. 
+Using terminal go to a folder in your computer where you would like to create this project. type `git clone https://github.com/orgsync/orgsync-ui-design-test.git` that will create a folder called "orgsync-ui-design-test" that you can jump into and see the contents of.
 
-We want to create another branch so after your in the directory type `git branch valarie` to create a branch named valarie, and `git checkout valarie` to jump into that branch.
+We want to create another branch so after your in the directory type `git branch your-name` to create a branch named your-name, and `git checkout your-name` to jump into that branch.
 
 From here you can make all of your changes, write your code etc... Add and Commit your changes like you normally would.
-If you are able to make incremental commits to show how your code progresses that would be helpful (but not required). When you are finished you will need to push your changes out so `git push origin valarie` will push to github.
+If you are able to make incremental commits to show how your code progresses that would be helpful (but not required). When you are finished you will need to push your changes out so `git push origin your-name` will push to github.
 
-Again, this is open ended, use anything you would like to accomplish this project, our goal for this project is to ascertain both development skills and design/UI considerations. If you have any further questions feel free to ask: tyler@orgsync.com, kevin@orgsync.com, clifton@orgsync.com
+Again, this is open ended, use anything you would like to accomplish this project, our goal for this project is to ascertain both development skills and design/UI considerations. If you have any further questions feel free to ask: tyler@orgsync.com, kevin@orgsync.com, valarie@orgsync.com, clifton@orgsync.com
